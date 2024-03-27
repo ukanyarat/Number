@@ -1,0 +1,14 @@
+D:\for github\Number\Number\bin\Debug\net8.0\Number.exe
+D:\for github\Number\Number\bin\Debug\net8.0\Number.deps.json
+D:\for github\Number\Number\bin\Debug\net8.0\Number.runtimeconfig.json
+D:\for github\Number\Number\bin\Debug\net8.0\Number.dll
+D:\for github\Number\Number\bin\Debug\net8.0\Number.pdb
+D:\for github\Number\Number\obj\Debug\net8.0\Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\for github\Number\Number\obj\Debug\net8.0\Number.AssemblyInfoInputs.cache
+D:\for github\Number\Number\obj\Debug\net8.0\Number.AssemblyInfo.cs
+D:\for github\Number\Number\obj\Debug\net8.0\Number.csproj.CoreCompileInputs.cache
+D:\for github\Number\Number\obj\Debug\net8.0\Number.dll
+D:\for github\Number\Number\obj\Debug\net8.0\refint\Number.dll
+D:\for github\Number\Number\obj\Debug\net8.0\Number.pdb
+D:\for github\Number\Number\obj\Debug\net8.0\Number.genruntimeconfig.cache
+D:\for github\Number\Number\obj\Debug\net8.0\ref\Number.dll
